@@ -11,3 +11,6 @@
 
 # Permitir SQL
 !*.sql
+
+# Permitir README
+!README.md
